@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="DerivativesPricing_DesignPatterns" Database="" Version="10000">
-  <Project Name="Vanilla_Option" Path="Vanilla_Option/Vanilla_Option.project" Active="No"/>
+  <Project Name="Vanilla_Option" Path="Vanilla_Option/Vanilla_Option.project" Active="Yes"/>
   <Project Name="Encapsulation" Path="Encapsulation/Encapsulation.project" Active="No"/>
   <Project Name="Inheritance_and_Virtual_Function" Path="Inheritance_and_Virtual_Function/Inheritance_and_Virtual_Function.project" Active="No"/>
   <Project Name="Bridging" Path="Bridging/Bridging.project" Active="No"/>
   <Project Name="Wrapper_and_Decoration" Path="Wrapper_and_Decoration/Wrapper_and_Decoration.project" Active="No"/>
-  <Project Name="Random_Number" Path="Random_Number/Random_Number.project" Active="Yes"/>
+  <Project Name="Random_Number" Path="Random_Number/Random_Number.project" Active="No"/>
   <Project Name="Exotic_engine" Path="Exotic_engine/Exotic_engine.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">

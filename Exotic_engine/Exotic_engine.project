@@ -98,6 +98,8 @@
     </Configuration>
   </Settings>
   <VirtualDirectory Name="src">
+    <File Name="Antithetic.cpp"/>
+    <File Name="Antithetic.h"/>
     <File Name="ExoticBSEngine.cpp"/>
     <File Name="ExoticBSEngine.h"/>
     <File Name="ExoticEngine.cpp"/>
