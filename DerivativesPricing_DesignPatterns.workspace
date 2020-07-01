@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="DerivativesPricing_DesignPatterns" Database="" Version="10000">
+  <Project Name="Vanilla_Option" Path="Vanilla_Option/Vanilla_Option.project" Active="No"/>
+  <Project Name="Encapsulation" Path="Encapsulation/Encapsulation.project" Active="No"/>
+  <Project Name="Inheritance_and_Virtual_Function" Path="Inheritance_and_Virtual_Function/Inheritance_and_Virtual_Function.project" Active="No"/>
+  <Project Name="Bridging" Path="Bridging/Bridging.project" Active="No"/>
+  <Project Name="Wrapper_and_Decoration" Path="Wrapper_and_Decoration/Wrapper_and_Decoration.project" Active="No"/>
+  <Project Name="Random_Number" Path="Random_Number/Random_Number.project" Active="Yes"/>
+  <Project Name="Exotic_engine" Path="Exotic_engine/Exotic_engine.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Vanilla_Option" ConfigName="Debug"/>
+      <Project Name="Encapsulation" ConfigName="Debug"/>
+      <Project Name="Inheritance_and_Virtual_Function" ConfigName="Debug"/>
+      <Project Name="Bridging" ConfigName="Debug"/>
+      <Project Name="Wrapper_and_Decoration" ConfigName="Debug"/>
+      <Project Name="Random_Number" ConfigName="Debug"/>
+      <Project Name="Exotic_engine" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Vanilla_Option" ConfigName="Release"/>
+      <Project Name="Encapsulation" ConfigName="Release"/>
+      <Project Name="Inheritance_and_Virtual_Function" ConfigName="Release"/>
+      <Project Name="Bridging" ConfigName="Release"/>
+      <Project Name="Wrapper_and_Decoration" ConfigName="Release"/>
+      <Project Name="Random_Number" ConfigName="Release"/>
+      <Project Name="Exotic_engine" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
